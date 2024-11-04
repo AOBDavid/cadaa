@@ -13,6 +13,11 @@
      opacity: 1;
  }
 
+ .card img{
+    width: 80%;
+    height:200px;
+    margin: auto;
+}
  .back-to-top {
     position: fixed;
     right: 30px;
